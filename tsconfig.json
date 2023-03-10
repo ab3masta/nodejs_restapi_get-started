@@ -16,7 +16,6 @@
       "@models/*": ["models/*"],
       "@routes/*": ["routes/*"],
       "@services/*": ["services/*"],
-      "@paths/*": ["paths/*"],
       "@utils/*": ["utils/*"]
     },
     /* Advanced Options */
